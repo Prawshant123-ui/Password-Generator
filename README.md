@@ -4,6 +4,7 @@ A simple and customizable password generator built with React. Generate strong, 
 
 
 🚀 Features
+
 1.Generate random passwords
 
 2.Customize password length
@@ -14,6 +15,7 @@ A simple and customizable password generator built with React. Generate strong, 
 
 
 🌐 Built with:
+
 1.React (useState, useEffect, useRef)
 
 2.Tailwind CSS for styling
