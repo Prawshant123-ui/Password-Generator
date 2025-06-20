@@ -21,3 +21,6 @@ A simple and customizable password generator built with React. Generate strong, 
 2.Tailwind CSS for styling
 
 3.Toast notifications for user feedback
+
+
+🔗 Link : http://pwgen-ps12.netlify.app
